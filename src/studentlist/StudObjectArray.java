@@ -16,6 +16,7 @@ public class StudObjectArray {
 
    
     public static void main(String[] args) {
+       System.out.println("Hello");
         Student[] studList=new Student[5];
         Scanner input=new Scanner(System.in);
 
