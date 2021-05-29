@@ -22,7 +22,7 @@ public class StudObjectArray {
         for(int i=0;i<studList.length;i++)
         {
             studList[i]=new Student();
-            System.out.println("Enter Student name: ");
+            System.out.println("Enter Student name:. ");
             studList[i].setName(input.nextLine());
         }
         
